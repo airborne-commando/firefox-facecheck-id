@@ -14,7 +14,7 @@ FaceCheck Reverse Image Search is a browser extension that enables you to search
 
 ## Installation
 
-1. Download and install the extension from the appropriate browser store
+1. Download and install the extension from the appropriate browser store or here on github.
 2. The extension icon will appear in your browser toolbar
 3. No additional setup required
 
