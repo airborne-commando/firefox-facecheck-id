@@ -1,4 +1,4 @@
-# FaceCheck Reverse Image Search - Browser Extension
+# FaceCheck Reverse Image Search - Firefox Extension
 
 ## Overview
 
@@ -25,3 +25,5 @@ FaceCheck Reverse Image Search is a browser extension that enables you to search
 2. **Right-click** on the image
 3. Select **"Find Person with FaceCheck.ID"** from the context menu
 4. A new tab will open with search results from FaceCheck.ID
+
+This was originally made in chrome However I've figured I'd port it to firefox users.
